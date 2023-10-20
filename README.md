@@ -15,3 +15,11 @@
 <IMG src="https://github.com/KauanSundays/CRUD_Jogadores_Laravel/blob/main/public/crud-jogadores/fotoDelete.PNG" width=600px>
 <P>Atualizando diretamente no Banco de Dados.</P>
 <IMG src="https://github.com/KauanSundays/CRUD_Jogadores_Laravel/blob/main/public/crud-jogadores/fotoDelete2.PNG" width=600px>
+
+
+<h1>Como usar esse Repositorio? </h1>
+<p>Ultilize o comando git clone + link deste repositorio: </p>
+
+```sh
+GIT CLONE https://github.com/KauanSundays/CRUD_Jogadores_Laravel.git
+```
